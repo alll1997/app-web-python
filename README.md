@@ -1,2 +1,2 @@
 # app-web-python
-Aplicación wev con pythom
+Aplicación web con pythom
